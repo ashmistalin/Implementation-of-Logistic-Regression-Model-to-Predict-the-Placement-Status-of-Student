@@ -13,9 +13,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 3.Import LabelEncoder and encode the dataset.
 4.Import LogisticRegression from sklearn and apply the model on the dataset.
 5.Predict the values of array.
-6 .Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 7.Apply new unknown values
-
 ## Program:
 ```
 /*
@@ -65,19 +64,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-##DATAHEAD:
+#DATAHEAD:
 ![GITHUB_LOGO](datahead.png)
-##DATA1HEAD:
+#DATA1HEAD:
 ![GITHUB_LOGO](data1head.png)
-##LABELENCODER:
+#LABELENCODER:
 ![GITHUB_LOGO](labelencoder.png)
-##ACCURACY:
+#ACCURACY:
 ![GITHUB_LOGO](accuracy.png)
-##CONFUSION:
+#CONFUSION:
 ![GITHUB_LOGO](confusion.png)
-##CLASSIFICATION:
-![GITHUB_LOGO](classificationpredict.png)
-##LRPREDICT:
+#CLASSIFICATION:
+![GITHUB_LOGO](classification.png)
+#LRPREDICT:
 ![GITHUB_LOGO](lrpredict.png)
 
 
