@@ -8,13 +8,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1 . Import the standard libraries.
-2 . Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
-3 . Import LabelEncoder and encode the dataset.
-4 . Import LogisticRegression from sklearn and apply the model on the dataset.
-5 . Predict the values of array.
-6 . Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
-7 . Apply new unknown values
+1 .Import the standard libraries.
+2 .Upload the dataset and check for any null or duplicated values using .isnull() and .duplicated() function respectively.
+3 .Import LabelEncoder and encode the dataset.
+4 .Import LogisticRegression from sklearn and apply the model on the dataset.
+5 .Predict the values of array.
+6 .Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+7 .Apply new unknown values
 ## Program:
 ```
 /*
@@ -64,12 +64,19 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+#DATAHEAD:
 ![GITHUB_LOGO](datahead.png)
+#DATA1HEAD:
 ![GITHUB_LOGO](data1head.png)
+#LABELENCODER:
 ![GITHUB_LOGO](labelencoder.png)
+#ACCURACY:
 ![GITHUB_LOGO](accuracy.png)
+#CONFUSION:
 ![GITHUB_LOGO](confusion.png)
-![GITHUB_LOGO](classification.png)
+#CLASSIFICATION:
+![GITHUB_LOGO](classificationpredict.png)
+3LRPREDICT:
 ![GITHUB_LOGO](lrpredict.png)
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
